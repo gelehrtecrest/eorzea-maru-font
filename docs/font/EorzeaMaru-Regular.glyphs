@@ -1,7 +1,7 @@
 {
 .appVersion = "3091";
 .formatVersion = 3;
-date = "2021-08-12 09:36:51 +0000";
+date = "2021-08-12 16:36:38 +0000";
 familyName = EorzeaMaru;
 fontMaster = (
 {
@@ -5045,10 +5045,45 @@ unicode = 44;
 },
 {
 glyphname = hyphen;
+lastChange = "2021-08-12 16:36:15 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+attr = {
+fillColor = (0,255);
+};
+closed = 1;
+nodes = (
+(-50,200,o),
+(-50,200,o),
+(0,200,c),
+(25,200,o),
+(25,300,o),
+(50,300,c),
+(100,300,o),
+(200,300,o),
+(250,300,c),
+(300,300,o),
+(350,200,o),
+(400,200,c),
+(450,200,o),
+(450,200,o),
+(450,250,c),
+(450,300,o),
+(350,400,o),
+(250,400,c),
+(200,400,o),
+(100,400,o),
+(50,400,c),
+(0,400,o),
+(-50,300,o),
+(-50,250,c)
+);
+}
+);
+width = 400;
 }
 );
 unicode = 45;
@@ -5073,5 +5108,5 @@ type = descender;
 );
 unitsPerEm = 1000;
 versionMajor = 2;
-versionMinor = 0;
+versionMinor = 1;
 }
